@@ -53,3 +53,8 @@ Alternatively, the tests can also be invoked more interactively:
 * Provide basic tests in src/Main.hs: Such basic testing does not need to strive for any coverage other than demonstration implemented features. Thus, a few positive test cases may suffice. Negative test cases may be helpful though to demonstrate constraints related to features. HUnit is used in a basic manner. An existing file src/Main.hs should be used as a starting point. If more than basic tests are to be developed, then they should be separated out into an extra testsuite.
 
 Contribution haskellEngineer is maintained to be a good demonstrator of these best practices.
+
+# Reproducing the case study of [this paper](softlang.uni-koblenz.de/simman/)
+
+All steps are explained [here](https://github.com/tschmorleiz/simman)
+
